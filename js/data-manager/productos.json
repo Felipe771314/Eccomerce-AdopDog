@@ -1,0 +1,182 @@
+[
+    {
+        "id": "comida-01",
+        "titulo": "Ultima Adult",
+        "imagen": "./img/perro/comida-perro-1.jpeg",
+        "categoria": {
+            "nombre": "Comida-perro",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-02",
+        "titulo": "AS Protein",
+        "imagen": "./img/perro/comida-perro-2.jpeg",
+        "categoria": {
+            "nombre": "Comida-perro",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-03",
+        "titulo": "hills",
+        "imagen": "./img/perro/comida-perro-3.jpeg",
+        "categoria": {
+            "nombre": "Comida-perro",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-04",
+        "titulo": "Healthy",
+        "imagen": "./img/perro/comida-perro-4.jpeg",
+        "categoria": {
+            "nombre": "Comida-perro",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "comida-05",
+        "titulo": "Canbaq",
+        "imagen": "./img/perro/comida-perro-5.jpeg",
+        "categoria": {
+            "nombre": "Comida-perro",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "gato 1",
+        "titulo": "Gato 1",
+        "imagen": "./img/gato/gato-01.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "perro"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Wekketies",
+        "imagen": "./img/gato/gato-02.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Ultima",
+        "imagen": "./img/gato/gato-03.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Oudor Lock",
+        "imagen": "./img/gato/gato-04.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Excelent",
+        "imagen": "./img/gato/gato-05.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Royal Canin",
+        "imagen": "./img/gato/gato-06.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Applaws",
+        "imagen": "./img/gato/gato-07.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Wekketies",
+        "imagen": "./img/gato/gato-08.jpeg",
+        "categoria": {
+            "nombre": "Comida-gato",
+            "id": "gato"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./img/juguetes/juguete-01.jpeg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./img/juguetes/juguete-02.jpeg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/juguetes/juguete-03.jpeg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/juguetes/juguete-04.jpeg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/juguetes/juguete-05.jpeg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1000
+    }
+]

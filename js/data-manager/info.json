@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Sofia",
+    "image": "./img/organizadores/sofia.webp",
+    "country": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.9657663723997!2d-58.528134284837016!3d-34.45301688049877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcafdc0ace9491%3A0xbe7b3686754bcf3b!2sBrasil%20768%2C%20B%C3%A9ccar%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2ses!4v1677796351996!5m2!1ses!2ses",
+    "descripcion": "Una organizacion que te ayuda en todo el proceso de adopcion para tu perro",
+    "organization": {
+      "name": "Adop Dog",
+      "id": "1"
+    }
+  },
+  {
+    "name": "Marta",
+    "image": "./img/organizadores/marta.jpeg",
+    "country": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.9998856987086!2d-58.461652684834306!3d-34.553558280472465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb4290d990dcf%3A0x36a9e3f44a4b4bb0!2sArcos%202825%2C%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2ses!4v1677796897240!5m2!1ses!2ses",
+    "descripcion": "Una organizacion que te ayuda en todo el proceso de adopcion para tu perro",
+    "organization": {
+      "name":"Patitas al rescate",
+      "id":"2"
+    }
+  },
+  {
+    "name": "Tomas",
+    "image": "./img/organizadores/tomas.avif",
+    "country": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.323345917616!2d-58.652905644605596!3d-34.570684065954836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbc0dbd50366b%3A0x58961fbb8c06bb0b!2sAu%20Cam.%20del%20Buen%20Ayre%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2ses!4v1677797015766!5m2!1ses!2ses",
+    "descripcion": "Una organizacion que te ayuda en todo el proceso de adopcion para tu perro",
+    "organization": {
+      "name":"Dogossito",
+      "id":"3"
+    }
+  }
+]
+

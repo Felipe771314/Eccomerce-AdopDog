@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Adop Dog</title>
+    <link rel="stylesheet" href="./css/patronicio.css" />
+    <link rel="stylesheet" href="./css/carousel.css" />
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./css/modal.css" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <!--Seccion de nav-->
+    <nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Home</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./shop.html">Shop</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Categorias
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="./shop.html">Perros</a></li>
+                <li><a class="dropdown-item" href="./shop.html">Gatos</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li>
+                  <a class="dropdown-item" href="./shop.html">Juguetes</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!--Seccion de carousel-->
+    <section id="container-slider">
+      <a href="javascript: fntExecuteSlide('prev');" class="arrowPrev"
+        ><i class="fas fa-chevron-circle-left"></i
+      ></a>
+      <a href="javascript: fntExecuteSlide('next');" class="arrowNext"
+        ><i class="fas fa-chevron-circle-right"></i
+      ></a>
+      <ul class="listslider">
+        <li><a itlist="itList_0" href="#" class="item-select-slid"></a></li>
+        <li><a itlist="itList_1" href="#"></a></li>
+        <li><a itlist="itList_2" href="#"></a></li>
+      </ul>
+      <ul id="slider" class="content_slider">
+        <li class="content_slider-1" style="z-index: 0; opacity: 1">
+          <div class="content_slider">
+            <div>
+              <h2>Todo para tu Perro</h2>
+              <p>Descubra las mejores comidas y juguetes</p>
+              <a href="./shop.html" class="btnSlider">Ver más</a>
+            </div>
+          </div>
+        </li>
+        <li class="content_slider-2">
+          <div class="content_slider">
+            <div>
+              <h2>Gatos</h2>
+              <p>La major comida y los mejores premios para tu gato</p>
+              <a href="./shop.html" class="btnSlider">Ver más</a>
+            </div>
+          </div>
+        </li>
+        <li class="content_slider-3">
+          <div class="content_slider">
+            <div>
+              <h2>Los mejores juguetes para tu mascota</h2>
+              <p>
+                Encontra los juguetesmas divertidos de todos para tus mascotas
+              </p>
+              <a href="./shop.html" class="btnSlider">Ver más</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <!--section de marcas que ayudas-->
+    <div class="slider">
+      <div class="slide-track">
+        <div class="slide">
+          <img src="./img/patrocinio/img-1.png" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-10.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-11.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-12.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-2.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-3.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-4.png" alt="" />
+        </div>
+
+        <div class="slide">
+          <img src="./img/patrocinio/img-5.png" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-6.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-7.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-8.jpeg" alt="" />
+        </div>
+        <div class="slide">
+          <img src="./img/patrocinio/img-9.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <!--seccion info intro-->
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <h1>Adop Dog</h1>
+          <h6 class="mb-5 mt-4">
+            Somos un sitio que ayuda a los usuarios a encontrar y adoptar perros
+            perdidos
+          </h6>
+        </div>
+      </div>
+    </div>
+
+    <!--card que se renderizan por javascript la info-->
+    <div id="cardsOrganizacion" class="card-group container mb-4"></div>
+
+    <!--seccion info-->
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <h1>Busca todos los perros que buscan un hogar</h1>
+          <h6 class="mb-5 mt-4">
+            Somos un sitio sin animo de lucro, ayudanos a ayudar
+          </h6>
+        </div>
+      </div>
+    </div>
+
+    <!--Imagenes-->
+    <section class="container-fluid">
+      <div id="containerImage" class="card-group-dog">
+      </div>
+    </section>
+
+    <!--Modal-->
+    <div class="container-xl">
+      <div class="modal" tabindex="-1" role="dialog" id="modal">
+      </div>
+    </div>
+
+
+    <!--script que da funcionalidad al carousel-->
+    <script src="./js/media/cards.js"></script>
+    <script src="./js/media/carousel.js"></script>
+    <!---->
+    <script src="./js/index.js"></script>
+    <script src="./js/mapDog.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
